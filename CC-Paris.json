@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"CC-Paris.json"
         }
     },
  "height":21,
@@ -52,7 +53,7 @@
          "name":"Windows",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":39,
          "x":0,
          "y":0
@@ -64,7 +65,7 @@
          "name":"Desks",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":39,
          "x":0,
          "y":0
@@ -78,7 +79,7 @@
          "offsety":-1,
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":39,
          "x":0,
          "y":0
@@ -90,7 +91,7 @@
          "name":"Plants",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":39,
          "x":0,
          "y":0
@@ -102,7 +103,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -113,7 +114,7 @@
          "name":"Front",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":39,
          "x":0,
          "y":0
