@@ -20,7 +20,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"my-first-map\/SecretWorld.json"
+                 "value":"SecretWorld.json"
                 }],
          "type":"tilelayer",
          "visible":true,
