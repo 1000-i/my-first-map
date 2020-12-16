@@ -20,7 +20,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/1000-i.github.io\/my-first-map\/SecretWorld.json"
+                 "value":"my-first-map\/SecretWorld.json"
                 }],
          "type":"tilelayer",
          "visible":true,
